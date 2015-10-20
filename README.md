@@ -7,6 +7,7 @@ Download from here if you want a stable build
 
 Do: 
 Fork if you want to contribute
+
 Report issues
 
 
