@@ -2,7 +2,18 @@
 
 #####This texture pack adds more texture variety to the Faithful 32 texture by utilizing MCPatcher options. 
 
-[Screenshots]
+[Screenshots](http://imgur.com/a/m0iE3)
+
+Supported textures: 
+
+* Stone
+* Cobblestone
+* Mossy Cobblestone
+* Cows
+* Sand
+* Cactus
+* Squid
+* Many, many more. 
 
 ###Do not: 
 
