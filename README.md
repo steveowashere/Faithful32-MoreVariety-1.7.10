@@ -4,16 +4,34 @@
 
 [Screenshots](http://imgur.com/a/m0iE3)
 
-Supported textures: 
+####Supported textures: 
 
-* Stone
-* Cobblestone
-* Mossy Cobblestone
-* Cows
-* Sand
-* Cactus
-* Squid
-* Many, many more. 
+#####Blocks:
+  
+  * Smoothstone
+  * Cobblestone
+  * Mossy Cobble
+  * Sandstone top
+  * Cactus
+  * Logs
+  * Grass Side
+  * Snow Side
+  * Farmland
+  * Sand
+  * Melon
+  * Pumpkin
+  * Lapis Ore
+  * Stonebrick Cracked
+  * Stonebrick mossy
+  * Cake*
+
+*Adds more variety to exsiting textures in Faithful pack. 
+ 
+#####Mobs:
+  * Zombie
+  * Cow
+  * Squid
+  * Wolf
 
 ###Do not: 
 
