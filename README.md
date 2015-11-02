@@ -2,7 +2,36 @@
 
 #####This texture pack adds more texture variety to the Faithful 32 texture by utilizing MCPatcher options. 
 
-[Screenshots]
+[Screenshots](http://imgur.com/a/m0iE3)
+
+####Supported textures: 
+
+#####Blocks:
+  
+  * Smoothstone
+  * Cobblestone
+  * Mossy Cobble
+  * Sandstone top
+  * Cactus
+  * Logs
+  * Grass Side
+  * Snow Side
+  * Farmland
+  * Sand
+  * Melon
+  * Pumpkin
+  * Lapis Ore
+  * Stonebrick Cracked
+  * Stonebrick mossy
+  * Cake*
+
+*Adds more variety to exsiting textures in Faithful pack. 
+ 
+#####Mobs:
+  * Zombie
+  * Cow
+  * Squid
+  * Wolf
 
 ###Do not: 
 
